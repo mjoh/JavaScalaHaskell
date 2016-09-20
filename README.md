@@ -20,4 +20,10 @@ Next step:
 - define the necessary data types on the purely functional side
 - scaffold Java classes
 - scaffold Scala classes for both pure and impure approach
+ 
+ResearchGate URL:
+https://www.researchgate.net/project/From-Java-to-impure-Scala-to-pure-Scala-to-Haskell
+
+Please note that access to ResearchGate is restricted to members of scientific institutions.
+
 
